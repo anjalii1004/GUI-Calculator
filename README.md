@@ -1,13 +1,8 @@
-# Psswd-Gen
-🚀 Just completed a fun project: Password Generator Application! 🔐
+# GUI Calculator
+"**Simplify Your Math with a Touch of Modern Design**! ✨🔢"
 
-I’m excited to share a video walkthrough of my latest project—a Python-based password generator using Tkinter. This application allows users to:
+Discover my Python-based GUI calculator, 
+crafted to make calculations effortless and enjoyable. With a user-friendly layout and robust functionality, 
+it’s a must-have for anyone who loves clean and effective tools. Check out the preview and see it in action!
+Perfect for quick math tasks, this tool combines elegance with efficiency.
 
-Choose Password Strength: Options include Weak, Medium, and Strong.
-Set Password Length: Choose from 5 to 18 characters.
-Generate and Copy: Quickly generate and copy passwords with a single click.
-Key Components:
-Tkinter GUI: A user-friendly interface to interact with the application.
-Password Strength Options: Customizable password strength levels based on user needs.
-Dynamic Length Selection: Adjust password length easily using a spinbox.
-Clipboard Integration: Copy passwords to the clipboard for easy use.
